@@ -81,13 +81,10 @@ Usaré componentes para reducir la cantidad de código y se me facilite en el fu
 ![crear ingrediente](./img/crear_ingrediente.png)
 ![listar ingredientes](./img/listar_ingredientes.png)
 ![listar recetas](./img/listar_recetas.png)
-
+___
 ### Frontend
 Para la parte del front usaré *NextJS* y *Tailwind CSS*
 ### Backend
-En la parte del back usaré una base de datos en *MySql* junto con *Prisma*
-
-
-
+En la parte del back usaré una base de datos en *MySql* junto con *Prisma* y *docker-compose*
 ## Consideraciones
 Por la limitante del tiempo he tratado de reducir el alcance del tiempo, todo depende de como vaya mi avance puedo ir agregando o puliendo el diseño de la aplicación.
