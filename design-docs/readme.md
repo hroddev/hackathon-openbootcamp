@@ -26,10 +26,10 @@ Ultima actualización: 2022-09-22
 - [Demo](#)
 - [Repositorio](https://github.com/hroddev/hackathon-openbootcamp)
 - [OpenBootCamp](https://campus.open-bootcamp.com/)
-- [Plantilla](https://github.com/charliesbot/design-docs)
+- [Plantilla del design docs](https://github.com/charliesbot/design-docs)
 
 ## Objetivo
-Es mi primer hackaton y primera app, quiero poner en practica lo aprendido dentro de los cursos de Open Boot Camp.  
+Es mi primer hackaton y primera app, quiero poner en práctica lo aprendido dentro de los cursos de Open Boot Camp.  
 
 Quiero hacer un app que permita a los usuarios poder registrar y llevar un control de sus recetas como primera fase. 
 
@@ -65,7 +65,7 @@ _Esta sección debería ser entendible por nuevos miembros de tu equipo que no e
 
 _Pon detalles en la siguiente sección_
 
-Primeramente el app debe poder usarse desde el teléfono móvil pero también debe permitir ser usado desde una PC o una tableta. 
+Primeramente el app debe poder usarse desde el teléfono móvil pero también debe permitir ser usado desde una PC o una tableta. Debido a que hay partes por ejemplo cuando realiza el costeo y la parte administrativa que puede hacerse más cómodo desde la PC, pero si necesita enviar una propuesta de un pedido lo pueda hacer directamente desde el móvil. 
 
 Hago enfasis en esta parte porque me enfocaré en hacer una interfas limpia y muy intuitiva, ya que no encontré o no la encontrado por el momento, una app que haga simple el proceso de llevar el control de las recetas y los pedidos a la vez.
 
@@ -88,6 +88,7 @@ _Cubre los cambios principales:_
 
 _No elabores minuciosamente la implementación._
 ![layout](https://github.com/hroddev/hackathon-openbootcamp/blob/main/design-docs/img/layout.png "layout")
+![crear ingrediente](https://github.com/hroddev/hackathon-openbootcamp/blob/main/design-docs/img/crear_ingrediente.png "crear ingrediente")
 ## Solution 1
 ### Frontend
 _Frontend…_
