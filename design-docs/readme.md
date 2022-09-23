@@ -1,5 +1,5 @@
 # CONTROL DE INGREDIENTES Y RECETAS
-Link: [Link a este design doc](#)
+Link: [Link a este design doc](https://github.com/hroddev/hackathon-openbootcamp/tree/main/design-docs)
 
 Author(s): Hector Rodriguez R.
 
@@ -24,8 +24,9 @@ Ultima actualización: 2022-09-22
 
 ## Links
 - [Demo](#)
-- [Repositorio](#)
+- [Repositorio](https://github.com/hroddev/hackathon-openbootcamp)
 - [OpenBootCamp](https://campus.open-bootcamp.com/)
+- [Plantilla](https://github.com/charliesbot/design-docs)
 
 ## Objetivo
 Es mi primer hackaton y primera app, quiero poner en practica lo aprendido dentro de los cursos de Open Boot Camp.  
@@ -86,7 +87,7 @@ _Cubre los cambios principales:_
  _- Hay código que puede ser reusable?_
 
 _No elabores minuciosamente la implementación._
-
+![layout](https://github.com/hroddev/hackathon-openbootcamp/blob/main/design-docs/img/layout.png "layout")
 ## Solution 1
 ### Frontend
 _Frontend…_
