@@ -69,7 +69,7 @@ Primeramente el app debe poder usarse desde el teléfono móvil pero también de
 
 Hago enfasis en esta parte porque me enfocaré en hacer una interfas limpia y muy intuitiva, ya que no encontré o no la encontrado por el momento, una app que haga simple el proceso de llevar el control de las recetas y los pedidos a la vez.
 
-El usuario podra crear y consultar
+El usuario podrá crear y consultar:
     - Clientes
     - Ingredientes
     - Recetas
