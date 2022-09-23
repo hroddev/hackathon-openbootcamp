@@ -87,8 +87,10 @@ _Cubre los cambios principales:_
  _- Hay código que puede ser reusable?_
 
 _No elabores minuciosamente la implementación._
-![layout](https://github.com/hroddev/hackathon-openbootcamp/blob/main/design-docs/img/layout.png "layout")
-![crear ingrediente](https://github.com/hroddev/hackathon-openbootcamp/blob/main/design-docs/img/crear_ingrediente.png "crear ingrediente")
+
+### 
+![layout](./img/layout.png)
+![crear ingrediente](./img/crear_ingrediente.png)
 ## Solution 1
 ### Frontend
 _Frontend…_
