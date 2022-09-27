@@ -1,34 +1,91 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- Please update value in the {}  -->
 
-## Getting Started
+<h1 align="center">Control de Recetas</h1>
 
-First, run the development server:
+<div align="center">
+   Participando en Hackathon de <a href="https://open-bootcamp.com/" target="_blank">Open Bootcamp</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+      </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+  - [Built With](#built-with)
+  - [Design Docs](./design-docs/readme.md)
+- [Features](#features)
+- [How to use](#how-to-use)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+
+Es mi primer hackaton, quiero poner en práctica lo aprendido dentro de los cursos de Open Bootcamp.  
+
+Quiero hacer un app que permita a los usuarios poder registrar y llevar un control de sus recetas como primera fase. 
+
+En próximas versiones me gustaría agregarle integrarlo a un sitio web con ecommerce para que los clientes puedan realizar sus pedidos.
+
+La idea nace de una necesidad del negocio de mi esposa Karine (cliente :), ella actualmente lleva su control de inventario y pedidos en hojas de cálculos, todo muy organizado pero a medida que pasa el tiempo y crece la cantidad de clientes, pedidos y productos se hace más complicado llevarlo.
+
+Por ejemplo para realizar una cotización o presupuesto para un pedido especial, debe abrir una hoja de calculo y copiar un pedido similar y hacer los cambios. A medida que aumenta el volumen de pedidos se hace mas tedioso de llevar, sumandole el riesgo de estimar mal el costo del pedido y que al final pierda en la venta.
+
+También la gestión de cobro se complica al aumentar la cantidad de pedidos, actualmente los cobros son realizados por whatsapp y luego pasados a un cuaderno. Me gustaría automatizar esa parte para que pueda tener más claridad lo que le deben y las propuestas que fueron enviadas y no fueron ordenadas para darle un seguimiento, todo de una forma simple que pueda ser realizada desde el teléfono móvil.
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [NextJS](https://nextjs.org/)
+- [Prisma](https://www.prisma.io/)
+- [Tailwind](https://tailwindcss.com/)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+
+
+## How To Use
+
+<!-- Example: -->
+
+
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone this repository
+$ git clone git@github.com:hroddev/hackathon-openbootcamp.git
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Acknowledgements
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Contact
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- GitHub [@hroddev](https://github.com/hroddev)
+- Twitter [@hectorR013](https://twitter.com/hectorR013)

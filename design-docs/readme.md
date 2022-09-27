@@ -29,7 +29,7 @@ ___
 - [Plantilla del design docs](https://github.com/charliesbot/design-docs)
 ___
 ## Objetivos
-Es mi primer hackaton y primera app, quiero poner en práctica lo aprendido dentro de los cursos de Open Boot Camp.  
+Es mi primer hackaton, quiero poner en práctica lo aprendido dentro de los cursos de Open Bootcamp.  
 
 Quiero hacer un app que permita a los usuarios poder registrar y llevar un control de sus recetas como primera fase. 
 
@@ -69,6 +69,8 @@ El usuario podrá crear y consultar:
     - Recetas
     - Pedidos
 ___
+
+
 ## Detailed Design
 
 Como primera fase me enfocaré en terminar todas las funcionalidades básicas del proyecto, como las pantallas de mantenimiento y las de consulta y luego trabajaré en la parte del diseño.
